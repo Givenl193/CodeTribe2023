@@ -1,0 +1,20 @@
+
+.mainContainer {
+    background-color: forestgreen;
+}
+.containerTitle {
+    font-size: small;
+    font-weight: lighter;
+
+}
+.iconImg {
+    width: 100px;
+    height: 100px;
+}
+.subject {
+    font-weight: bold;
+}
+.prof {
+    font-weight: lighter;
+}
+
